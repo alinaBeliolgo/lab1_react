@@ -107,7 +107,7 @@ export default App;
 
 Пример отображения в браузере:
 
-![alt text](image-1.png)
+![alt text](image.png)
 
 ## Список использованных источников
 - [Официальная документация React](https://react.dev/)
